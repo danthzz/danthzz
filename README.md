@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danthzz
 - 👀 I’m interested in Back and Front end
 - 🌱 I’m currently learning DataBase Front and Back end
-- 💞️ I’m looking to collaborate on Internship and Junior position
+- 💞️ I’m looking to collaborate in Internship and Junior position
 - 📫 How to reach me on linkedIn https://www.linkedin.com/in/daniel-gomes-3628121b7/
 
 <!---
