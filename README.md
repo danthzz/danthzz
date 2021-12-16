@@ -31,5 +31,5 @@
   
   ## 
   
-  <img align="center" alt="Danthzz" height="400" widht="410" src="https://cdn.discordapp.com/attachments/390682673158422532/921016550956363776/22b22287602523.5dbd29081561d.gif"> 
+  <img align="center" alt="Danthzz" height="300" widht="310" src="https://cdn.discordapp.com/attachments/390682673158422532/921016550956363776/22b22287602523.5dbd29081561d.gif"> 
  
