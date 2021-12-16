@@ -1,4 +1,4 @@
-## Oi, Eu sou o Daniel!
+## Oi, Eu sou o Daniel!<img align="center" alt="Danthzz" height="15" widht="20" src="https://cdn.discordapp.com/attachments/390682673158422532/921045529285230602/43a7-unscreen.gif">
 
 <div>
   <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Frontend Developer <br> Aprendendo Angular, React e Python </p>
