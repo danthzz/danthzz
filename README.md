@@ -1,7 +1,7 @@
 ## Oi, Eu sou o Daniel!
 
 <div>
-  <p>Estudante de Analise e Desnvolvimento de Sistemas <br>Frontend Developer <br> Aprendendo Angular, React e Python </p>
+  <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Frontend Developer <br> Aprendendo Angular, React e Python </p>
 </div>
 
 ## 
@@ -27,7 +27,9 @@
   <a href="https://instagram.com/danthzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-gomes-3628121b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Danthzz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+  
+  ## 
   
   <img align="center" alt="Danthzz" height="400" widht="410" src="https://cdn.discordapp.com/attachments/390682673158422532/921016550956363776/22b22287602523.5dbd29081561d.gif"> 
-</div>
  
