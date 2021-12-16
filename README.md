@@ -1,6 +1,6 @@
 ## Oi, Eu sou o Daniel!
 
-<div align="center" style="display: inline_block">
+<div align="left">
   <a href="https://dg.dev.br" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danthzz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthzz&layout=compact&langs_count=7&theme=github_dark"/>
