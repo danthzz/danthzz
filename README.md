@@ -1,9 +1,4 @@
 ## Oi, Eu sou o Daniel!
-<div>
-  <p>Estudante de Analise e Desnvolvimento de Sistemas <br>Frontend Developer <br> Aprendendo Angular, React e Python </p>
-</div>
-
-## 
 
 <div align="center" style="display: inline_block">
   <a href="https://dg.dev.br" target="_blank">
