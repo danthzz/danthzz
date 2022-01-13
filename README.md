@@ -1,7 +1,7 @@
 ## Oi, Eu sou o Daniel!<img align="center" alt="Danthzz" height="80" widht="80" src="https://cdn.discordapp.com/attachments/390682673158422532/921045529285230602/43a7-unscreen.gif">
 
 <div>
-  <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Frontend Developer <br> Aprendendo Angular, React e Python </p>
+  <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Full Stack JS Developer <br> Aprendendo Angular, React e Python </p>
 </div>
 
 ## 
