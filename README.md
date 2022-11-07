@@ -1,8 +1,8 @@
-## Oi, Eu sou o Daniel!<img align="center" alt="Danthzz" height="80" widht="80" src="https://cdn.discordapp.com/attachments/390682673158422532/921045529285230602/43a7-unscreen.gif">
+## I'm Daniel!<img align="center" alt="Danthzz" height="80" widht="80" src="https://i.pinimg.com/originals/9a/42/fe/9a42fea8e65a7f428be264b4d507e74a.gif">
 
 
 <div align="center">
-  <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Frontend Developer Jr <br> Aprendendo Python e MongoDB </p>
+  <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Frontend Developer Jr <br> .NET e Banco de Dados </p>
 </div>
 
 ## 
@@ -19,7 +19,7 @@
   <img align="center" alt="Danthzz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Danthzz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danthzz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danthzz-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Danthzz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Danthzz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Danthzz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
