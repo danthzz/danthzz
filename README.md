@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <p>Estudante de Análise e Desnvolvimento de Sistemas <br>Developer React & C# Jr <br> Aprendendo .NET e Banco de Dados </p>
+  <p><b>Full Stack Developer</b><br> Estudante de Análise e Desnvolvimento de Sistemas <br>Developer React & Node Jr </p>
 </div>
 
 ## 
